@@ -1,1 +1,1 @@
-# Data Visualization with Pandas as Seaborn
+# Data Visualization with Pandas and Seaborn
